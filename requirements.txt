@@ -1,0 +1,12 @@
+streamlit==1.2.0
+pickleshare==0.7.5
+scikit-learn==1.0.1
+numpy==1.19.5
+scipy==1.6.0
+matplotlib==3.3.4
+pandas==1.1.5
+protobuf==3.20.3
+pip install altair.vegalite.v4
+pip install --upgrade setuptools
+pip install altair
+pip install vega_dataset vega
